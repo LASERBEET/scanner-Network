@@ -1,6 +1,6 @@
 ## 👋Scanner Network
 
- -  Manual
+ -  Usage steps
 # step 1 dowload and install
 
 - dowload nmap
