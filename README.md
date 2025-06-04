@@ -9,5 +9,6 @@
 
 - python -m pip install scapy python-nmap
 
-  run project
+
 - py projectscanner.py
+ run project
