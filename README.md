@@ -5,7 +5,7 @@ step 1 dowload and install
 
 - dowload python
 
-step 2 open command prompt
+# step 2 open command prompt
 
 - python -m pip install scapy python-nmap
 
